@@ -1,4 +1,16 @@
+# DatabaseManager
+#Made by: Kouah Mohammed Aymen
+#Computer science student at "National Computer science Engineering School, Algiers (ESI)"
+#E-mail: jm_kouah@esi.dz
+#Github: https://github.com/aymenkouah
 
+#written in the "Python" programming language
+#Requires installaling "tkinter" (TK)
+#" pip install TK "
+
+#Read the READ_ME file for howToUse info
+
+#importing packages and modules
 
 #importing packages and modules
 
